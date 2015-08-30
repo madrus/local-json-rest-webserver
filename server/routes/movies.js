@@ -19,8 +19,8 @@ module.exports = function (app) {
   ]
 
   app.route('/api/movies')
-    .get(function () {
-
+    .get(function (req, res) {
+        res.send(movies);
     });
 
 }
