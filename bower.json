@@ -1,0 +1,17 @@
+{
+  "name": "web_api",
+  "version": "0.1.0",
+  "homepage": "https://github.com/madrus/web_api",
+  "authors": [
+    "Madrus"
+  ],
+  "description": "Web-API Scaffolding to support the Front-End Projects development",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
