@@ -1,0 +1,44 @@
+[
+	{
+		"_id": "1",
+		"title": "Aliens",
+		"director": "James Cameron",
+		"releaseYear": "1986",
+		"rating": "8.5"
+	},
+	{
+		"_id": "2",
+		"title": "Big Trouble in Little China",
+		"director": "John Carpenter",
+		"releaseYear": "1986",
+		"rating": "7.3"
+	},
+	{
+		"_id": "3",
+		"title": "Killer Klowns from Outer Space",
+		"director": "Stephen Chiodo",
+		"releaseYear": "1988",
+		"rating": "6.0"
+	},
+	{
+		"_id": "4",
+		"title": "Heat",
+		"director": "Michael Mann",
+		"releaseYear": "1995",
+		"rating": "8.3"
+	},
+	{
+		"_id": "5",
+		"title": "The Ra_id: Redemption",
+		"director": "Gareth Evans",
+		"releaseYear": "2011",
+		"rating": "7.6"
+	},
+	{
+		"_id": "6",
+		"title": "The Princess Bride",
+		"director": "Rob Reiner",
+		"releaseYear": "1987",
+		"rating": "8.5"
+	}
+]
