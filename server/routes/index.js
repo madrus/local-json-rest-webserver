@@ -66,6 +66,7 @@ module.exports = function (app) {
 	};
 
 	function deleteMovie(req, res, next) {
+		// delete the item from the collection
 		var indexToDel = -1;
 		_.each(json, function (elem, index) {
 			if (elem._id === req.params.id) {
