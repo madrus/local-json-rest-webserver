@@ -16,5 +16,5 @@ var server = app.listen(app.get('port'), function () {
 	console.log('Server up: http://localhost:' + app.get('port'));
 });
 
+require('./data/db_init')();
 routes = require('./routes/index')(app);
-
